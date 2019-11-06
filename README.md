@@ -1,12 +1,12 @@
 # Sinhala-POS-Data
 POS tagged Sinhala text
 
-news- verified- final level.txt file contains the first version of our annotated data. There are 253636 word in it.
+news- verified- final level.txt file contains the first version of our annotated data. There are 253487 words in it.
 TagList.txt contains the tag list.
 Tagging Guide.pdf contains a detailed description of the tags.
 
 
-If you use this data set or the tag set, please cite one of these as apropriate:
+If you use this dataset or the tag set, please cite one of these as appropriate:
 
 Fernando, S., & Ranathunga, S. (2018, May). Evaluation of Different Classifiers for Sinhala POS Tagging. In 2018 Moratuwa Engineering Research Conference (MERCon) (pp. 96-101). IEEE.
 
